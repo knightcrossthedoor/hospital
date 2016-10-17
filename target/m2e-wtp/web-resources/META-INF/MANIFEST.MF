@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: hospital Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: WIN7
+Implementation-Vendor-Id: com.gzd
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
